@@ -1,0 +1,9 @@
+id: 23bc1248-3f03-4990-856c-de1cce83dbdd
+actions:
+    - type: insert
+      element: <footer>Footer Content</footer>
+      position: after
+      target: body
+    - type: alter
+      oldValue: Machine Learning
+      newValue: AI

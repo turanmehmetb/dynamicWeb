@@ -1,0 +1,9 @@
+id: bccabbc4-1497-4c7c-aa23-05cd2ad82c37
+datasource:
+    pages:
+        cart:
+            - 4d508895-70d9-4006-a850-ff14595b6538.yaml
+        details:
+            - 123e4567-e89b-12d3-a456-426614174002.yaml
+    urls: {}
+    hosts: {}

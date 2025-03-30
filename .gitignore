@@ -30,7 +30,6 @@ logs/
 
 # Compiled Go files
 *.test
-*.mod
 *.sum
 
 # Temporary files
