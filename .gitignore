@@ -1,0 +1,38 @@
+# Binary files
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+# Dependency directories
+/vendor/
+node_modules/
+
+# Environment files
+.env
+config.yaml
+*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and caches
+logs/
+*.log
+*.lock
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# Compiled Go files
+*.test
+*.mod
+*.sum
+
+# Temporary files
+/tmp/
+*.bak
